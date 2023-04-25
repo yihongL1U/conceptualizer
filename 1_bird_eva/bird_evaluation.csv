@@ -1,0 +1,1332 @@
+language,decision,decision_panlex
+aai,polysemy,no translations
+aak,polysemy,overlap
+aau,polysemy,match
+aaz,one-to-one,no translations
+abt,polysemy,overlap
+abx,one-to-one,overlap
+aby,polysemy,overlap
+aca,one-to-one,overlap
+acd,one-to-one,overlap
+ace,polysemy,match
+acf,polysemy,no overlap
+ach,one-to-one,no overlap
+acn,one-to-one,no overlap
+acr,polysemy,no translations
+acu,polysemy,no overlap
+ade,one-to-one,overlap
+adh,one-to-one,no overlap
+adi,one-to-one,no translations
+adj,ambiguity,overlap
+adl,one-to-one,no overlap
+ady,one-to-one,match
+adz,one-to-one,no overlap
+aeb,one-to-one,overlap
+aeu,one-to-one,no translations
+aey,polysemy,match
+afr,one-to-one,match
+agd,polysemy,no overlap
+agg,polysemy,no overlap
+agm,polysemy,overlap
+agn,one-to-one,no overlap
+agr,polysemy,match
+agt,one-to-one,match
+agu,polysemy,overlap
+agw,polysemy,no overlap
+agx,one-to-one,no overlap
+ahk,one-to-one,match
+aia,polysemy,no overlap
+aii,one-to-one,no overlap
+aim,one-to-one,no translations
+aji,one-to-one,no overlap
+ajz,one-to-one,overlap
+akb,polysemy,match
+ake,polysemy,no overlap
+akh,ambiguity,no overlap
+ald,polysemy,match
+alj,one-to-one,no translations
+aln,one-to-one,no overlap
+alp,one-to-one,match
+alq,one-to-one,no overlap
+alt,one-to-one,match
+aly,polysemy,no overlap
+alz,one-to-one,no overlap
+ame,one-to-one,overlap
+amf,polysemy,match
+amh,one-to-one,no translations
+amk,polysemy,match
+amm,ambiguity,overlap
+amn,polysemy,no overlap
+amp,ambiguity,overlap
+amr,polysemy,no overlap
+amu,polysemy,no overlap
+amx,polysemy,no overlap
+ann,one-to-one,overlap
+anv,one-to-one,match
+aoi,polysemy,match
+aoj,polysemy,no overlap
+aom,polysemy,overlap
+aon,polysemy,overlap
+aoz,polysemy,match
+apb,one-to-one,overlap
+ape,polysemy,overlap
+apn,polysemy,overlap
+apr,polysemy,overlap
+apt,one-to-one,no overlap
+apu,polysemy,overlap
+apw,one-to-one,no overlap
+apy,polysemy,overlap
+apz,polysemy,overlap
+arb,ambiguity,overlap
+are,one-to-one,no overlap
+arl,one-to-one,no overlap
+arn,polysemy,match
+arp,one-to-one,overlap
+ary,one-to-one,no overlap
+arz,ambiguity,overlap
+asg,one-to-one,no translations
+aso,one-to-one,overlap
+ata,polysemy,overlap
+atb,one-to-one,overlap
+atd,polysemy,overlap
+atg,polysemy,no translations
+att,one-to-one,match
+auc,polysemy,overlap
+aui,one-to-one,overlap
+auy,one-to-one,overlap
+ava,one-to-one,match
+avt,polysemy,match
+avu,polysemy,no translations
+awa,polysemy,no translations
+awb,one-to-one,match
+awi,polysemy,overlap
+awx,one-to-one,no overlap
+ayo,polysemy,overlap
+ayr,polysemy,match
+aze,polysemy,no translations
+azg,polysemy,overlap
+azz,polysemy,overlap
+bak,one-to-one,match
+bam,one-to-one,match
+ban,one-to-one,match
+bao,one-to-one,no overlap
+bar,one-to-one,no overlap
+bav,one-to-one,match
+bba,polysemy,no overlap
+bbb,polysemy,overlap
+bbc,polysemy,match
+bbj,one-to-one,no overlap
+bbr,polysemy,match
+bch,polysemy,no overlap
+bci,polysemy,match
+bcl,one-to-one,match
+bco,one-to-one,no overlap
+bcw,polysemy,overlap
+bdd,one-to-one,match
+bdh,one-to-one,no overlap
+bea,one-to-one,no overlap
+bef,polysemy,match
+bel,one-to-one,match
+bem,one-to-one,overlap
+ben,polysemy,match
+beq,one-to-one,overlap
+bex,one-to-one,no overlap
+bfd,one-to-one,no overlap
+bfo,one-to-one,no translations
+bgr,one-to-one,no translations
+bgs,one-to-one,overlap
+bgz,polysemy,no translations
+bhg,one-to-one,match
+bhl,polysemy,match
+bhp,polysemy,match
+bib,polysemy,no overlap
+big,one-to-one,no translations
+bim,one-to-one,match
+bis,polysemy,match
+biu,one-to-one,no translations
+biv,one-to-one,no overlap
+bjr,polysemy,match
+bjv,polysemy,match
+bkd,one-to-one,match
+bkq,one-to-one,no overlap
+bku,polysemy,no translations
+bkv,one-to-one,no overlap
+blh,one-to-one,no overlap
+blw,polysemy,match
+blz,polysemy,no translations
+bmb,one-to-one,no translations
+bmh,polysemy,match
+bmk,one-to-one,no translations
+bmq,one-to-one,no translations
+bmr,polysemy,no overlap
+bmu,polysemy,match
+bnj,one-to-one,no translations
+bnp,polysemy,no overlap
+boa,one-to-one,no overlap
+bod,polysemy,overlap
+boj,polysemy,match
+bom,one-to-one,overlap
+bon,one-to-one,match
+box,one-to-one,match
+bpr,one-to-one,match
+bps,one-to-one,match
+bqc,polysemy,match
+bqj,one-to-one,no translations
+bqp,one-to-one,no overlap
+bre,one-to-one,match
+bru,polysemy,no overlap
+bsc,one-to-one,no translations
+bsn,polysemy,no overlap
+bsp,one-to-one,no overlap
+bss,one-to-one,no overlap
+btd,one-to-one,no overlap
+bth,polysemy,no overlap
+bto,polysemy,no overlap
+bts,one-to-one,no translations
+btt,one-to-one,no overlap
+btx,one-to-one,no overlap
+bud,one-to-one,overlap
+bug,polysemy,no overlap
+buk,one-to-one,no overlap
+bul,one-to-one,overlap
+bum,polysemy,no overlap
+bus,one-to-one,no overlap
+bvr,polysemy,match
+bvz,polysemy,no overlap
+bwd,one-to-one,match
+bwq,one-to-one,match
+bwu,polysemy,overlap
+bxh,one-to-one,no overlap
+bxr,one-to-one,match
+byr,ambiguity,overlap
+byx,polysemy,no overlap
+bzd,one-to-one,no overlap
+bzh,polysemy,no overlap
+bzi,polysemy,no overlap
+bzj,polysemy,no overlap
+caa,polysemy,match
+cab,polysemy,match
+cac,polysemy,overlap
+caf,polysemy,no overlap
+cag,one-to-one,match
+cak,polysemy,no overlap
+cao,one-to-one,match
+cap,polysemy,match
+caq,one-to-one,no translations
+car,one-to-one,match
+cas,polysemy,match
+cat,one-to-one,match
+cav,polysemy,no overlap
+cax,polysemy,no overlap
+cbc,polysemy,no overlap
+cbi,polysemy,match
+cbk,polysemy,match
+cbr,polysemy,no overlap
+cbs,one-to-one,no overlap
+cbt,polysemy,no overlap
+cbu,polysemy,no overlap
+cbv,polysemy,overlap
+cce,one-to-one,no translations
+cco,polysemy,no overlap
+ceb,one-to-one,match
+ceg,polysemy,no overlap
+ces,one-to-one,match
+cfm,one-to-one,no translations
+cgc,one-to-one,no overlap
+cha,polysemy,match
+chd,one-to-one,no overlap
+che,one-to-one,match
+chf,polysemy,match
+chk,polysemy,overlap
+chq,one-to-one,no overlap
+chr,one-to-one,match
+chu,polysemy,match
+chv,polysemy,match
+chz,polysemy,no translations
+cjo,polysemy,no overlap
+cjp,polysemy,match
+cjs,one-to-one,match
+cjv,polysemy,match
+ckb,one-to-one,match
+cko,one-to-one,no translations
+ckt,one-to-one,no overlap
+cle,polysemy,overlap
+clu,polysemy,no translations
+cly,polysemy,no translations
+cme,polysemy,no overlap
+cmn,one-to-one,match
+cmo,one-to-one,overlap
+cnh,failure,no overlap
+cni,polysemy,no overlap
+cnl,polysemy,no translations
+cnt,polysemy,no translations
+cnw,one-to-one,no translations
+coe,polysemy,match
+cof,polysemy,overlap
+cok,polysemy,overlap
+con,polysemy,overlap
+cop,one-to-one,no overlap
+cor,one-to-one,overlap
+cot,one-to-one,no overlap
+cpa,polysemy,overlap
+cpb,one-to-one,no overlap
+cpc,polysemy,no overlap
+cpu,polysemy,no overlap
+cpy,ambiguity,no translations
+crh,one-to-one,match
+crm,one-to-one,no overlap
+crn,polysemy,no overlap
+crq,polysemy,no overlap
+crs,one-to-one,match
+crt,polysemy,match
+crx,polysemy,overlap
+csk,one-to-one,no translations
+cso,polysemy,no overlap
+csy,polysemy,no translations
+cta,one-to-one,overlap
+ctd,one-to-one,no overlap
+ctp,polysemy,no overlap
+ctu,polysemy,no overlap
+cub,polysemy,no overlap
+cuc,polysemy,no overlap
+cui,one-to-one,overlap
+cuk,one-to-one,no overlap
+cul,polysemy,no overlap
+cut,polysemy,no translations
+cux,polysemy,match
+cwe,one-to-one,match
+cwt,one-to-one,no translations
+cya,polysemy,no translations
+cym,one-to-one,overlap
+czt,one-to-one,no translations
+daa,polysemy,no overlap
+dad,one-to-one,no overlap
+dah,polysemy,match
+dak,one-to-one,no overlap
+dan,one-to-one,no overlap
+dar,one-to-one,match
+ded,failure,overlap
+des,one-to-one,no overlap
+deu,one-to-one,overlap
+dgc,one-to-one,match
+dgi,one-to-one,no overlap
+dgr,one-to-one,overlap
+dgz,polysemy,match
+dhg,failure,match
+dhm,one-to-one,no translations
+dig,one-to-one,no overlap
+dik,one-to-one,no translations
+dip,ambiguity,no translations
+dis,one-to-one,no overlap
+dje,one-to-one,match
+djk,polysemy,match
+djr,failure,no overlap
+dng,one-to-one,no overlap
+dnj,one-to-one,match
+dob,one-to-one,match
+dop,one-to-one,no translations
+dow,polysemy,match
+dtp,one-to-one,match
+dts,polysemy,match
+due,polysemy,no overlap
+dug,one-to-one,no overlap
+duo,polysemy,match
+dur,one-to-one,overlap
+dwr,polysemy,match
+dww,polysemy,no translations
+dyi,one-to-one,match
+dyo,one-to-one,no overlap
+dyu,one-to-one,no translations
+ebk,one-to-one,no overlap
+efi,polysemy,overlap
+eka,polysemy,match
+eko,one-to-one,no overlap
+ell,one-to-one,overlap
+emi,one-to-one,match
+emp,polysemy,no overlap
+enb,polysemy,no overlap
+eng,one-to-one,overlap
+enl,polysemy,no translations
+enm,one-to-one,match
+enx,one-to-one,match
+epo,one-to-one,match
+eri,polysemy,match
+ese,polysemy,match
+esi,polysemy,match
+esk,polysemy,no overlap
+est,one-to-one,no translations
+esu,one-to-one,overlap
+etr,polysemy,match
+etu,polysemy,match
+eus,one-to-one,match
+eve,one-to-one,match
+ewe,one-to-one,no overlap
+eza,ambiguity,no translations
+faa,one-to-one,overlap
+fad,polysemy,match
+fai,polysemy,match
+fal,one-to-one,no overlap
+fao,one-to-one,match
+ffm,one-to-one,no overlap
+fij,one-to-one,match
+fil,one-to-one,match
+fin,one-to-one,overlap
+fon,polysemy,no overlap
+for,polysemy,match
+fra,one-to-one,match
+fry,one-to-one,match
+fub,one-to-one,no overlap
+fue,one-to-one,no translations
+fuf,one-to-one,no overlap
+fuh,one-to-one,no overlap
+fuq,one-to-one,no translations
+fuv,one-to-one,no overlap
+gaa,one-to-one,match
+gag,one-to-one,match
+gah,polysemy,match
+gam,polysemy,no overlap
+gaw,polysemy,match
+gbi,polysemy,match
+gbo,polysemy,no translations
+gbr,one-to-one,no translations
+gde,polysemy,match
+gdg,polysemy,no overlap
+gdn,polysemy,match
+gdr,polysemy,no overlap
+geb,polysemy,match
+gej,one-to-one,no overlap
+gfk,polysemy,match
+ghe,one-to-one,no translations
+ghs,failure,overlap
+gid,polysemy,no overlap
+gil,one-to-one,overlap
+giz,polysemy,no translations
+gjn,ambiguity,overlap
+gkn,ambiguity,match
+gkp,polysemy,no overlap
+gla,one-to-one,match
+gle,one-to-one,overlap
+glv,one-to-one,match
+gmv,polysemy,match
+gnb,one-to-one,no translations
+gnd,polysemy,overlap
+gng,polysemy,match
+gnn,failure,no overlap
+gnw,one-to-one,no translations
+gof,one-to-one,no translations
+gog,one-to-one,no translations
+gor,polysemy,match
+got,one-to-one,match
+gqr,polysemy,match
+grc,one-to-one,match
+grt,one-to-one,no overlap
+gso,one-to-one,match
+gub,polysemy,no overlap
+guc,polysemy,overlap
+gud,one-to-one,match
+gug,one-to-one,match
+guh,polysemy,no overlap
+gui,one-to-one,match
+guj,polysemy,match
+guk,one-to-one,no overlap
+gul,one-to-one,no overlap
+gum,one-to-one,no overlap
+gun,polysemy,no overlap
+guo,ambiguity,no overlap
+guq,polysemy,match
+gur,polysemy,overlap
+guw,one-to-one,no translations
+gux,one-to-one,no overlap
+guz,one-to-one,match
+gvc,ambiguity,overlap
+gvf,ambiguity,match
+gvl,one-to-one,no overlap
+gvn,ambiguity,no overlap
+gwi,polysemy,overlap
+gya,polysemy,overlap
+gym,polysemy,no overlap
+gyr,polysemy,no translations
+hae,one-to-one,match
+hag,one-to-one,match
+hak,one-to-one,match
+hat,one-to-one,match
+hau,one-to-one,match
+haw,polysemy,match
+hay,one-to-one,match
+hbo,one-to-one,overlap
+hch,one-to-one,no overlap
+heb,one-to-one,match
+heg,polysemy,no translations
+heh,one-to-one,match
+hif,polysemy,no overlap
+hig,one-to-one,match
+hil,one-to-one,match
+hin,one-to-one,match
+hix,polysemy,overlap
+hla,polysemy,match
+hlt,one-to-one,no translations
+hmo,polysemy,no overlap
+hne,polysemy,no translations
+hnj,polysemy,overlap
+hnn,one-to-one,match
+hns,polysemy,no translations
+hop,one-to-one,match
+hot,polysemy,no overlap
+hra,polysemy,no translations
+hrv,one-to-one,overlap
+hto,polysemy,overlap
+hub,polysemy,no overlap
+hui,polysemy,match
+hun,one-to-one,overlap
+hus,polysemy,no overlap
+huu,polysemy,no overlap
+huv,polysemy,match
+hvn,one-to-one,match
+hwc,polysemy,no overlap
+hye,polysemy,match
+ian,one-to-one,no overlap
+iba,polysemy,match
+ibo,one-to-one,match
+icr,polysemy,no translations
+ifa,one-to-one,match
+ifb,one-to-one,match
+ifk,polysemy,no overlap
+ifu,polysemy,match
+ify,polysemy,no overlap
+ign,ambiguity,match
+ike,polysemy,no translations
+ikk,one-to-one,no translations
+ikw,one-to-one,match
+ilb,one-to-one,no overlap
+ilo,one-to-one,match
+imo,polysemy,overlap
+inb,one-to-one,no overlap
+ind,polysemy,overlap
+ino,ambiguity,match
+iou,polysemy,no overlap
+ipi,polysemy,match
+iqw,one-to-one,no translations
+iri,one-to-one,match
+irk,one-to-one,match
+iry,one-to-one,no translations
+isd,polysemy,match
+isl,one-to-one,match
+ita,one-to-one,match
+itv,one-to-one,match
+ium,polysemy,match
+ivb,one-to-one,overlap
+ivv,polysemy,match
+iws,polysemy,no overlap
+ixl,polysemy,match
+izr,one-to-one,match
+izz,one-to-one,no overlap
+jac,one-to-one,match
+jae,one-to-one,match
+jam,polysemy,match
+jav,polysemy,match
+jbu,one-to-one,no overlap
+jic,polysemy,overlap
+jiv,ambiguity,no overlap
+jmc,one-to-one,match
+jpn,one-to-one,overlap
+jra,polysemy,match
+jvn,polysemy,no translations
+kaa,one-to-one,match
+kab,one-to-one,no overlap
+kac,polysemy,no overlap
+kal,polysemy,match
+kan,one-to-one,match
+kao,one-to-one,no overlap
+kap,one-to-one,match
+kaq,polysemy,no overlap
+kat,one-to-one,match
+kaz,one-to-one,match
+kbc,one-to-one,match
+kbd,one-to-one,match
+kbh,one-to-one,no overlap
+kbm,ambiguity,no overlap
+kbp,polysemy,match
+kbq,polysemy,match
+kbr,polysemy,overlap
+kck,one-to-one,match
+kdc,one-to-one,no overlap
+kde,polysemy,no overlap
+kdh,one-to-one,no overlap
+kdi,ambiguity,match
+kdj,one-to-one,no overlap
+kdl,one-to-one,no overlap
+kek,polysemy,no overlap
+ken,polysemy,no overlap
+kew,polysemy,no overlap
+kez,one-to-one,no overlap
+kff,polysemy,no overlap
+kgf,polysemy,match
+kgk,one-to-one,no overlap
+kgp,polysemy,match
+khk,one-to-one,match
+khm,one-to-one,no overlap
+khs,polysemy,no overlap
+khy,one-to-one,no translations
+khz,polysemy,no translations
+kia,one-to-one,no overlap
+kik,one-to-one,no overlap
+kin,one-to-one,overlap
+kir,polysemy,overlap
+kix,polysemy,no translations
+kjb,one-to-one,overlap
+kje,one-to-one,match
+kjh,one-to-one,match
+kjs,polysemy,match
+kkc,polysemy,no overlap
+kki,one-to-one,no overlap
+kkj,one-to-one,no overlap
+kkl,polysemy,overlap
+klt,one-to-one,match
+klv,one-to-one,no overlap
+kma,polysemy,no overlap
+kmg,polysemy,match
+kmh,polysemy,match
+kmk,one-to-one,no overlap
+kmm,polysemy,no translations
+kmo,one-to-one,overlap
+kmr,one-to-one,no overlap
+kms,polysemy,overlap
+kmu,polysemy,no translations
+kne,polysemy,no overlap
+knf,one-to-one,no overlap
+kng,one-to-one,no overlap
+knj,ambiguity,overlap
+knk,one-to-one,match
+kno,ambiguity,match
+knv,polysemy,match
+kog,polysemy,no overlap
+kor,ambiguity,overlap
+kos,polysemy,match
+kpf,polysemy,match
+kpg,ambiguity,overlap
+kpj,polysemy,match
+kpr,ambiguity,match
+kpv,one-to-one,match
+kpw,ambiguity,match
+kpx,polysemy,match
+kpz,one-to-one,no translations
+kqc,polysemy,match
+kqe,one-to-one,no overlap
+kqf,one-to-one,no translations
+kqo,one-to-one,no overlap
+kqp,one-to-one,no translations
+kqs,one-to-one,match
+kqw,one-to-one,match
+kqy,one-to-one,overlap
+krc,one-to-one,match
+kri,polysemy,no overlap
+krj,polysemy,match
+ksc,polysemy,no overlap
+ksd,one-to-one,match
+ksf,one-to-one,match
+ksp,polysemy,match
+ksr,polysemy,match
+kss,one-to-one,no overlap
+ksw,polysemy,no overlap
+ktb,one-to-one,match
+ktj,polysemy,no translations
+ktm,polysemy,no translations
+kto,polysemy,match
+ktu,one-to-one,no translations
+kua,one-to-one,no overlap
+kub,one-to-one,no overlap
+kud,one-to-one,match
+kue,polysemy,match
+kum,one-to-one,match
+kup,polysemy,overlap
+kus,one-to-one,match
+kvj,one-to-one,no overlap
+kvn,polysemy,no overlap
+kwd,polysemy,match
+kwf,one-to-one,match
+kwi,polysemy,overlap
+kwj,polysemy,no overlap
+kxc,one-to-one,match
+kxm,polysemy,no overlap
+kxw,one-to-one,overlap
+kyc,one-to-one,no overlap
+kyf,one-to-one,no translations
+kyg,polysemy,no translations
+kyq,polysemy,no overlap
+kyu,one-to-one,no overlap
+kyz,failure,no overlap
+kze,one-to-one,no overlap
+kzf,polysemy,no overlap
+lac,polysemy,match
+lai,one-to-one,match
+laj,one-to-one,no overlap
+lam,one-to-one,no translations
+lao,ambiguity,match
+las,one-to-one,match
+lat,polysemy,overlap
+lav,one-to-one,no translations
+lbb,one-to-one,no translations
+lbj,polysemy,no translations
+lbk,one-to-one,match
+lcm,one-to-one,match
+ldi,one-to-one,no overlap
+lee,polysemy,match
+lef,polysemy,match
+leh,one-to-one,match
+lem,one-to-one,no overlap
+leu,polysemy,match
+lew,polysemy,no translations
+lex,polysemy,overlap
+lgm,polysemy,no translations
+lhi,one-to-one,no translations
+lhm,ambiguity,no translations
+lhu,one-to-one,no overlap
+lia,one-to-one,no translations
+lid,polysemy,no overlap
+lif,one-to-one,no overlap
+lin,one-to-one,overlap
+lip,one-to-one,match
+lit,one-to-one,match
+ljp,polysemy,match
+lmk,one-to-one,no translations
+lmp,one-to-one,no overlap
+lob,one-to-one,match
+lol,one-to-one,no overlap
+lom,one-to-one,match
+loq,polysemy,no translations
+loz,one-to-one,no overlap
+lsi,ambiguity,no overlap
+lsm,one-to-one,match
+lug,one-to-one,match
+luo,one-to-one,no overlap
+lus,one-to-one,match
+lwo,ambiguity,no overlap
+lww,polysemy,no translations
+lzh,one-to-one,match
+maa,one-to-one,no overlap
+mad,polysemy,match
+maf,one-to-one,no overlap
+mah,polysemy,match
+mai,one-to-one,no overlap
+maj,polysemy,no overlap
+mak,polysemy,match
+mal,one-to-one,match
+mam,polysemy,no translations
+maq,ambiguity,no overlap
+mar,one-to-one,match
+mau,polysemy,no overlap
+mav,polysemy,no overlap
+maw,one-to-one,match
+maz,one-to-one,match
+mbb,polysemy,match
+mbc,polysemy,match
+mbd,polysemy,match
+mbf,one-to-one,no translations
+mbh,one-to-one,no translations
+mbi,polysemy,match
+mbj,polysemy,match
+mbl,polysemy,no overlap
+mbs,polysemy,match
+mbt,one-to-one,match
+mca,one-to-one,no overlap
+mcb,one-to-one,no overlap
+mcd,one-to-one,match
+mcf,ambiguity,no translations
+mck,one-to-one,no overlap
+mcn,one-to-one,match
+mco,polysemy,match
+mcp,one-to-one,no translations
+mcq,polysemy,no overlap
+mcu,one-to-one,no overlap
+mda,polysemy,no overlap
+mdy,ambiguity,no overlap
+med,polysemy,match
+mee,one-to-one,overlap
+mej,polysemy,no overlap
+mek,polysemy,match
+men,one-to-one,match
+meq,one-to-one,no overlap
+meu,one-to-one,match
+mfe,one-to-one,match
+mfh,one-to-one,no overlap
+mfi,one-to-one,match
+mfk,polysemy,no translations
+mfq,one-to-one,no overlap
+mfy,polysemy,no overlap
+mfz,polysemy,match
+mgc,one-to-one,no translations
+mgh,one-to-one,no translations
+mhi,one-to-one,no overlap
+mhl,polysemy,match
+mhr,one-to-one,match
+mhx,one-to-one,no overlap
+mhy,polysemy,match
+mib,polysemy,no translations
+mic,polysemy,match
+mie,polysemy,no translations
+mif,one-to-one,no overlap
+mig,polysemy,no overlap
+mih,polysemy,no overlap
+mil,one-to-one,no overlap
+min,polysemy,overlap
+mio,polysemy,no overlap
+miq,polysemy,match
+mir,polysemy,no overlap
+mit,one-to-one,no translations
+miy,one-to-one,no translations
+miz,polysemy,no translations
+mjc,polysemy,no overlap
+mjw,one-to-one,no overlap
+mkd,one-to-one,match
+mkl,one-to-one,no translations
+mkn,polysemy,no overlap
+mks,polysemy,no translations
+mlh,polysemy,no overlap
+mlp,polysemy,match
+mlt,one-to-one,overlap
+mmn,one-to-one,match
+mmo,polysemy,no overlap
+mmx,polysemy,no overlap
+mna,polysemy,overlap
+mnb,one-to-one,no overlap
+mnf,one-to-one,no overlap
+mnh,one-to-one,no overlap
+mnk,one-to-one,match
+mnx,polysemy,no overlap
+moc,one-to-one,match
+mog,polysemy,match
+mop,one-to-one,match
+mor,one-to-one,match
+mos,one-to-one,match
+mox,one-to-one,match
+mpg,one-to-one,no overlap
+mph,failure,match
+mpm,one-to-one,no overlap
+mpp,polysemy,no overlap
+mps,polysemy,match
+mpt,polysemy,match
+mpx,one-to-one,no overlap
+mqb,one-to-one,no overlap
+mqj,one-to-one,no overlap
+mqy,one-to-one,match
+mrg,polysemy,no overlap
+mri,one-to-one,match
+mrw,one-to-one,match
+msa,polysemy,no translations
+msb,one-to-one,no overlap
+msc,one-to-one,no translations
+mse,one-to-one,match
+msk,polysemy,match
+msm,one-to-one,match
+msy,one-to-one,match
+mta,polysemy,match
+mtg,polysemy,match
+mti,polysemy,match
+mtj,polysemy,no overlap
+mto,one-to-one,match
+mtp,polysemy,match
+mua,ambiguity,match
+muh,polysemy,overlap
+mur,one-to-one,match
+mux,one-to-one,overlap
+muy,polysemy,no overlap
+mva,polysemy,match
+mvn,polysemy,no overlap
+mvp,one-to-one,match
+mwc,one-to-one,no translations
+mwf,one-to-one,no overlap
+mwm,ambiguity,match
+mwp,ambiguity,no overlap
+mwq,one-to-one,no translations
+mwv,one-to-one,no overlap
+mww,polysemy,match
+mxb,polysemy,match
+mxp,polysemy,no translations
+mxq,one-to-one,no translations
+mxt,polysemy,no translations
+mya,polysemy,match
+myb,one-to-one,match
+myk,polysemy,match
+myu,polysemy,overlap
+myv,one-to-one,match
+myw,ambiguity,overlap
+myx,one-to-one,match
+myy,polysemy,no overlap
+mza,polysemy,no translations
+mzh,polysemy,match
+mzk,one-to-one,no overlap
+mzl,one-to-one,no translations
+mzm,one-to-one,no overlap
+mzw,one-to-one,match
+mzz,one-to-one,no translations
+nab,one-to-one,match
+naf,polysemy,match
+nak,polysemy,overlap
+nan,one-to-one,match
+naq,one-to-one,match
+nas,one-to-one,match
+nav,one-to-one,overlap
+nbc,one-to-one,no overlap
+nbe,one-to-one,no overlap
+nbl,polysemy,no translations
+nbq,polysemy,match
+nca,polysemy,no overlap
+nch,one-to-one,no overlap
+ncj,polysemy,no overlap
+ncl,one-to-one,no overlap
+nct,one-to-one,no overlap
+ncu,one-to-one,match
+ndc,one-to-one,no translations
+nde,polysemy,match
+ndi,one-to-one,no overlap
+ndj,one-to-one,match
+ndo,one-to-one,no overlap
+ndp,one-to-one,no translations
+nds,one-to-one,overlap
+ndz,one-to-one,no overlap
+neb,one-to-one,match
+nep,one-to-one,no translations
+nfa,polysemy,match
+nfr,polysemy,match
+ngc,one-to-one,no overlap
+ngp,one-to-one,match
+ngu,one-to-one,no overlap
+nhd,one-to-one,no translations
+nhe,one-to-one,no overlap
+nhg,polysemy,overlap
+nhi,one-to-one,no overlap
+nho,one-to-one,overlap
+nhr,polysemy,match
+nhu,one-to-one,no overlap
+nhw,one-to-one,no overlap
+nhx,one-to-one,no overlap
+nhy,one-to-one,no overlap
+nia,one-to-one,match
+nif,one-to-one,match
+nii,polysemy,no overlap
+nij,polysemy,match
+nim,polysemy,match
+nin,one-to-one,no overlap
+niq,polysemy,no overlap
+niy,one-to-one,no overlap
+njb,one-to-one,no overlap
+njm,one-to-one,no overlap
+njn,one-to-one,no overlap
+njo,one-to-one,no overlap
+njz,one-to-one,no overlap
+nko,one-to-one,match
+nlc,polysemy,match
+nld,one-to-one,overlap
+nma,polysemy,no overlap
+nmf,ambiguity,no overlap
+nmo,one-to-one,no translations
+nmw,one-to-one,no overlap
+nmz,one-to-one,no overlap
+nnb,one-to-one,match
+nng,one-to-one,no translations
+nnh,one-to-one,no overlap
+nno,one-to-one,match
+nnp,ambiguity,no overlap
+nnq,one-to-one,match
+nnw,polysemy,no translations
+noa,one-to-one,overlap
+nob,one-to-one,overlap
+nog,one-to-one,match
+nop,polysemy,match
+not,polysemy,no overlap
+nou,one-to-one,no overlap
+nph,one-to-one,no overlap
+npi,one-to-one,match
+npl,one-to-one,no overlap
+npo,one-to-one,no overlap
+npy,polysemy,no translations
+nsn,one-to-one,match
+nso,one-to-one,no overlap
+nss,one-to-one,no translations
+ntp,polysemy,no overlap
+ntr,ambiguity,no translations
+nus,ambiguity,match
+nuy,polysemy,match
+nvm,polysemy,no translations
+nwb,one-to-one,match
+nwi,one-to-one,match
+nya,ambiguity,overlap
+nyf,one-to-one,no overlap
+nyn,one-to-one,overlap
+nyo,one-to-one,match
+nyu,one-to-one,no translations
+nyy,one-to-one,match
+obo,one-to-one,no translations
+oji,one-to-one,no translations
+ojs,one-to-one,no overlap
+okv,polysemy,match
+old,one-to-one,overlap
+omw,polysemy,no translations
+ong,polysemy,match
+ons,polysemy,match
+ood,polysemy,match
+opm,one-to-one,no translations
+ory,one-to-one,overlap
+oss,one-to-one,match
+ote,one-to-one,match
+otm,polysemy,no translations
+otn,polysemy,no translations
+otq,one-to-one,no overlap
+ots,polysemy,no overlap
+ozm,one-to-one,no translations
+pab,polysemy,no overlap
+pad,polysemy,overlap
+pag,one-to-one,match
+pah,polysemy,no overlap
+pam,one-to-one,match
+pan,one-to-one,match
+pao,polysemy,no overlap
+pap,one-to-one,match
+pbb,polysemy,overlap
+pbc,polysemy,no translations
+pbi,polysemy,no overlap
+pbl,one-to-one,no translations
+pcm,polysemy,no overlap
+pdc,one-to-one,no overlap
+pdt,one-to-one,overlap
+pes,one-to-one,match
+pib,one-to-one,no overlap
+pio,polysemy,no overlap
+pir,one-to-one,no overlap
+pis,polysemy,no overlap
+pkb,one-to-one,no overlap
+plg,one-to-one,match
+pls,one-to-one,no translations
+plt,one-to-one,overlap
+plu,polysemy,no overlap
+plw,one-to-one,no overlap
+pma,polysemy,match
+pmf,polysemy,match
+pne,polysemy,no translations
+poe,polysemy,no overlap
+poh,polysemy,no overlap
+poi,ambiguity,match
+pol,one-to-one,overlap
+pon,polysemy,match
+por,polysemy,no overlap
+pot,one-to-one,no overlap
+poy,one-to-one,no overlap
+ppk,polysemy,no overlap
+ppo,one-to-one,overlap
+prf,one-to-one,no translations
+pri,polysemy,no translations
+prk,one-to-one,no translations
+prs,one-to-one,match
+pse,polysemy,match
+ptp,polysemy,no overlap
+ptu,one-to-one,no translations
+pua,one-to-one,no overlap
+pwg,one-to-one,match
+pww,polysemy,no translations
+qub,polysemy,overlap
+quc,polysemy,match
+quf,one-to-one,no overlap
+qug,one-to-one,no overlap
+quh,polysemy,no overlap
+qul,one-to-one,overlap
+qup,polysemy,no overlap
+quw,polysemy,no overlap
+quy,polysemy,no overlap
+quz,polysemy,overlap
+qvc,one-to-one,match
+qve,one-to-one,overlap
+qvh,one-to-one,no translations
+qvi,one-to-one,no overlap
+qvm,one-to-one,no translations
+qvn,polysemy,overlap
+qvo,polysemy,no overlap
+qvs,polysemy,overlap
+qvw,polysemy,overlap
+qvz,polysemy,no overlap
+qwh,one-to-one,no overlap
+qxh,polysemy,no translations
+qxn,polysemy,match
+qxo,polysemy,no overlap
+qxr,polysemy,no overlap
+rai,one-to-one,no overlap
+rim,one-to-one,no overlap
+rkb,polysemy,overlap
+rmo,polysemy,no overlap
+rmy,one-to-one,match
+ron,one-to-one,match
+roo,polysemy,match
+rop,polysemy,match
+rro,one-to-one,match
+ruf,one-to-one,match
+run,polysemy,match
+rus,one-to-one,overlap
+rwo,polysemy,overlap
+sab,polysemy,no overlap
+sag,one-to-one,match
+sah,ambiguity,match
+sas,polysemy,no overlap
+sba,failure,overlap
+sbd,one-to-one,no translations
+sbe,one-to-one,match
+sbl,one-to-one,match
+sda,one-to-one,no overlap
+seh,polysemy,no overlap
+sey,polysemy,no overlap
+sgb,polysemy,no translations
+sgw,one-to-one,no translations
+sgz,polysemy,no overlap
+shi,one-to-one,no overlap
+shk,one-to-one,match
+shp,polysemy,overlap
+shu,one-to-one,no overlap
+sig,one-to-one,no overlap
+sil,one-to-one,no overlap
+sim,one-to-one,overlap
+sin,polysemy,overlap
+sja,ambiguity,overlap
+sld,one-to-one,no translations
+slk,one-to-one,match
+sll,polysemy,match
+slv,one-to-one,overlap
+sme,one-to-one,match
+smk,polysemy,no overlap
+sml,one-to-one,match
+smo,one-to-one,match
+sna,one-to-one,overlap
+snc,ambiguity,match
+snd,one-to-one,match
+snn,polysemy,match
+snp,one-to-one,match
+snw,one-to-one,match
+sny,one-to-one,overlap
+som,polysemy,match
+soq,polysemy,match
+sot,one-to-one,overlap
+soy,polysemy,no translations
+spa,one-to-one,overlap
+spl,ambiguity,match
+spp,one-to-one,no overlap
+sps,polysemy,overlap
+spy,one-to-one,no overlap
+sqi,one-to-one,match
+sri,polysemy,no overlap
+srm,polysemy,match
+srn,polysemy,overlap
+srp,one-to-one,overlap
+srq,one-to-one,overlap
+ssd,one-to-one,match
+ssg,ambiguity,match
+ssw,one-to-one,match
+ssx,polysemy,overlap
+stn,one-to-one,match
+stp,polysemy,overlap
+sua,one-to-one,match
+sue,one-to-one,no overlap
+suk,one-to-one,match
+sun,polysemy,match
+sur,polysemy,match
+sus,polysemy,match
+swe,one-to-one,overlap
+swg,one-to-one,no overlap
+swh,one-to-one,overlap
+swk,one-to-one,no translations
+swp,polysemy,no overlap
+sxb,one-to-one,match
+sxn,one-to-one,match
+syc,one-to-one,no overlap
+szb,polysemy,match
+tab,one-to-one,match
+tac,polysemy,no translations
+taj,one-to-one,no overlap
+tam,one-to-one,match
+taq,one-to-one,no overlap
+tar,polysemy,overlap
+tat,one-to-one,match
+tav,polysemy,no overlap
+taw,ambiguity,no translations
+tbc,one-to-one,overlap
+tbg,polysemy,no overlap
+tbl,one-to-one,match
+tbo,polysemy,no overlap
+tby,polysemy,no overlap
+tbz,failure,no overlap
+tca,one-to-one,no overlap
+tcc,one-to-one,no overlap
+tcs,polysemy,no overlap
+tcz,one-to-one,no overlap
+tdt,one-to-one,match
+tee,polysemy,no overlap
+tel,polysemy,match
+tem,one-to-one,match
+teo,one-to-one,no overlap
+ter,polysemy,no overlap
+tfr,polysemy,no overlap
+tgk,one-to-one,overlap
+tgl,one-to-one,overlap
+tgp,one-to-one,no overlap
+tha,polysemy,match
+thk,one-to-one,no overlap
+tih,polysemy,match
+tik,polysemy,no translations
+tim,polysemy,match
+tir,one-to-one,match
+tku,one-to-one,match
+tlb,polysemy,no overlap
+tlf,polysemy,overlap
+tlh,one-to-one,no overlap
+tna,polysemy,overlap
+tnn,one-to-one,no overlap
+tob,one-to-one,no overlap
+toc,one-to-one,no overlap
+toh,polysemy,no translations
+toj,polysemy,overlap
+too,one-to-one,match
+top,polysemy,match
+tos,polysemy,overlap
+tpa,one-to-one,no translations
+tpi,polysemy,match
+tpm,failure,overlap
+tpp,one-to-one,no overlap
+tpt,polysemy,no overlap
+tpz,one-to-one,no translations
+tqb,polysemy,match
+trc,polysemy,match
+trn,polysemy,match
+trq,polysemy,no overlap
+tsn,one-to-one,match
+tso,one-to-one,no overlap
+tsz,one-to-one,overlap
+ttc,one-to-one,match
+tte,ambiguity,overlap
+ttq,one-to-one,no translations
+tuc,polysemy,no overlap
+tue,polysemy,no overlap
+tuf,one-to-one,no overlap
+tui,one-to-one,match
+tuk,one-to-one,match
+tum,one-to-one,no overlap
+tuo,polysemy,no overlap
+tur,one-to-one,overlap
+twi,one-to-one,no overlap
+twu,polysemy,match
+txu,polysemy,no overlap
+tyv,polysemy,match
+tzh,polysemy,no overlap
+tzj,polysemy,no overlap
+tzo,one-to-one,match
+ubr,polysemy,match
+ubu,polysemy,overlap
+udu,polysemy,match
+uig,one-to-one,overlap
+ukr,one-to-one,match
+upv,polysemy,no overlap
+ura,one-to-one,no translations
+urb,polysemy,no overlap
+urd,one-to-one,match
+urk,polysemy,no overlap
+usa,one-to-one,no translations
+usp,one-to-one,overlap
+uvl,one-to-one,no overlap
+uzb,one-to-one,no translations
+vag,one-to-one,match
+ven,polysemy,match
+vie,polysemy,match
+viv,polysemy,match
+vmy,polysemy,no overlap
+vun,one-to-one,match
+vut,one-to-one,no overlap
+waj,ambiguity,overlap
+wal,polysemy,no translations
+wap,one-to-one,match
+war,one-to-one,match
+way,polysemy,no overlap
+wbm,polysemy,no translations
+wbp,polysemy,overlap
+wca,one-to-one,no overlap
+wed,one-to-one,match
+wer,one-to-one,no overlap
+whk,polysemy,no translations
+wiu,polysemy,match
+wmw,one-to-one,no overlap
+wnc,polysemy,match
+wnu,polysemy,match
+wob,one-to-one,match
+wol,one-to-one,match
+wos,polysemy,no translations
+wrs,polysemy,no overlap
+wsk,polysemy,match
+wuv,one-to-one,match
+wwa,polysemy,no overlap
+xal,one-to-one,match
+xav,one-to-one,no overlap
+xbi,polysemy,match
+xbr,polysemy,match
+xed,one-to-one,no overlap
+xho,one-to-one,overlap
+xla,polysemy,match
+xon,one-to-one,match
+xrb,one-to-one,no translations
+xsi,polysemy,no overlap
+xsm,one-to-one,match
+xsu,one-to-one,no overlap
+xtd,one-to-one,no translations
+xtm,polysemy,no translations
+xuo,one-to-one,match
+yaa,one-to-one,overlap
+yad,polysemy,overlap
+yal,one-to-one,match
+yam,one-to-one,no overlap
+yan,polysemy,overlap
+yaq,polysemy,match
+yby,ambiguity,no overlap
+ycn,polysemy,no overlap
+yle,polysemy,overlap
+yli,one-to-one,overlap
+yml,ambiguity,match
+yon,polysemy,match
+yor,polysemy,overlap
+yrb,polysemy,match
+yre,polysemy,match
+yrk,one-to-one,match
+yss,polysemy,match
+yua,polysemy,match
+yuj,polysemy,no overlap
+yut,polysemy,match
+yuw,polysemy,overlap
+yuz,polysemy,no overlap
+yva,one-to-one,no translations
+zaa,polysemy,no overlap
+zab,polysemy,no translations
+zac,one-to-one,no overlap
+zad,polysemy,no overlap
+zae,one-to-one,no overlap
+zai,polysemy,match
+zam,polysemy,no translations
+zao,one-to-one,no translations
+zar,polysemy,no translations
+zas,one-to-one,no translations
+zat,polysemy,no translations
+zav,polysemy,no overlap
+zaw,one-to-one,no overlap
+zca,polysemy,no translations
+zho,polysemy,overlap
+zia,one-to-one,no overlap
+ziw,polysemy,match
+zom,one-to-one,no translations
+zos,polysemy,match
+zpc,polysemy,no overlap
+zpi,one-to-one,no overlap
+zpl,polysemy,no overlap
+zpm,one-to-one,no overlap
+zpo,one-to-one,no overlap
+zpq,polysemy,no overlap
+zpt,one-to-one,no translations
+zpu,polysemy,no overlap
+zpv,polysemy,no overlap
+zpz,polysemy,no overlap
+zsm,polysemy,match
+zsr,polysemy,no translations
+ztq,polysemy,no overlap
+zty,polysemy,no translations
+zul,one-to-one,match
+zyp,polysemy,no translations

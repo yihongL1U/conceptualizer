@@ -1,0 +1,583 @@
+concept,language,translations
+fish,eng,['$fish']
+fish,spa,"['$peces$', '$pescad', '$pez$']"
+fish,deu,['$fisch']
+fish,zho,['鱼']
+fish,fra,['$poisson']
+fish,nld,"['$vissen$', '$vis$', 'e$vis']"
+fish,pol,['$ryb']
+fish,tur,['$balı']
+fish,afr,"['$viss', '$vis$']"
+fish,cat,['$peix']
+fish,dan,['fisk']
+fish,fin,"['$kala', '$kalo']"
+fish,ell,"['$ψάρι', '$ψαρι']"
+fish,hun,"['$halat$', '$halak', '$halai', '$a$hal$', 'ét$hal', '$hal$']"
+fish,isl,['fisk']
+fish,gle,"['iasc$', 'éisc$']"
+fish,xho,['ntlanz']
+fish,ita,['$pesc']
+fish,lit,['$žuv']
+fish,mlt,"['l-ħut', '$ħuta$', '$ħutiet$', '$ħut$']"
+fish,rus,['$рыб']
+fish,srp,['$rib']
+fish,slk,"['$ryb', '$rýb$']"
+fish,swe,['$fisk']
+fish,ces,['$ryb']
+fish,gla,['iasg$']
+fish,msa,['$ikan$']
+fish,fas,['$ماهی']
+fish,hye,"['$ձկ', '$ձուկ']"
+bird,eng,['$bird']
+bird,spa,"['$pájaro', '$aves$']"
+bird,deu,"['vogel', 'vögel']"
+bird,zho,"['鸟$', '$类$']"
+bird,fra,['oiseau']
+bird,nld,"['$vogel', 'oofvogel']"
+bird,pol,['$ptak']
+bird,tur,"['$kuşla', '$kuş$', '$kuşu$']"
+bird,afr,['voël']
+bird,cat,"['ocells$', '$les$aus']"
+bird,dan,['fugl']
+bird,fin,"['lintu', '$linnu']"
+bird,ell,"['$πουλι', '$πουλί$']"
+bird,hun,['$mad']
+bird,isl,['$fugl']
+bird,gle,"['$éan', '$na$héin', '$éin$']"
+bird,xho,['ntaka$']
+bird,ita,['uccell']
+bird,lit,['$paukš']
+bird,mlt,"['għasafar', 'għasfur$']"
+bird,rus,['$пти']
+bird,srp,['$ptic']
+bird,slk,['$vtá']
+bird,swe,['fåg']
+bird,ces,['$ptá']
+bird,gla,['eoin$an$']
+bird,msa,"['a$boeroe', 'egala$on', '$boeroen']"
+bird,fas,['$پرند']
+bird,hye,"['$թռչուն', '$թռչնի$']"
+bird,est,"['$lind', '$linnud$']"
+bird,cym,"['$aderyn$', '$adar$', 'hediaid$']"
+dog,eng,['$dog']
+dog,spa,['$perr']
+dog,deu,"['$hunde$', '$hund$', '$hunden$']"
+dog,zho,"['$狗$', '$小狗$', '狗']"
+dog,fra,['$chien']
+dog,nld,"['de$hond', '$hond$', '$honden']"
+dog,pol,"['$psy$', '$pies$', '$psa$', 'zczenięt', '$ps']"
+dog,tur,['$köpe']
+dog,afr,"['ie$hond', '$hond$', '$honde$']"
+dog,cat,['ls$goss']
+dog,dan,"['hunde', '$hund$']"
+dog,fin,['$koir']
+dog,ell,"['$σκύλ', 'τα$σκυλά']"
+dog,hun,"['kuty', '$eb$']"
+dog,isl,"['$hunda', '$hundu']"
+dog,gle,"['$madra', '$mhadra', '$mada', 'coileá']"
+dog,xho,"['nja$', 'injan']"
+dog,ita,"['$cani$', '$cane$', '$cagnoli']"
+dog,lit,"['$šun', '$šuo$']"
+dog,mlt,"['klieb$', 'kelb$', 'l-ġriewi']"
+dog,rus,"['$соба', '$пс', '$пёс$']"
+dog,srp,"['$psi', '$pas$', '$psa$', 'i$kučići', '$ps']"
+dog,slk,"['$ps', '$pes$']"
+dog,swe,"['hundar', '$hund$', '$hunden']"
+dog,ces,"['$psi$', '$pes$', '$ps']"
+dog,gla,['an$na$cl']
+dog,msa,['$andjing']
+dog,fas,['$سگ']
+dog,hye,"['$շներ', '$շան$', '$շնիկներ', '$շունը$']"
+dog,est,"['$koer', '$kutsika']"
+dog,cym,"['$cŵn$', '$ci$']"
+tree,eng,['$tree']
+tree,spa,"['$árbol', '$higuera', '$enebro', '$olivo', '$palmera', '$cedro']"
+tree,deu,"['baum', 'bäume']"
+tree,zho,"['树', '木$']"
+tree,fra,"['arbre', '$figuier', 'genévrie', 'olivier', '$palmier', '$bois$d']"
+tree,nld,"['boom', 'bomen$']"
+tree,pol,"['$drzew', '$palm']"
+tree,tur,['$ağa']
+tree,cat,"['arbre', 'a$figuer']"
+tree,dan,"['træe', 'træ$']"
+tree,fin,"['puu', 'puiden$', 'puita', 'puista$', 'kataj']"
+tree,hun,"['fa$', 'fák', '$fái', 'fügefá', '$fát$', 'borókafe']"
+tree,isl,"['tré', '$trján']"
+tree,gle,"['crann$', 'crainn$', '$chrann', '$dair$', '$chrainn', '$adhma']"
+tree,xho,"['mithi$', 'mthi$', 'mkhiwane', 'nquma$']"
+tree,ita,"['alber', '$fico$', '$gine', '$oliv', '$palm', '$cedr']"
+tree,lit,"['med', '$ąžuol', 'kiparis', '$palm']"
+tree,mlt,['siġ']
+tree,rus,"['$дерев', '$инжир', '$маслин', '$можжев', '$пальм']"
+tree,srp,"['$drv', '$stab', '$smokv', '$masline', '$palm', '$maslin']"
+tree,slk,"['$strom', '$figovní', '$olivovn', '$borievk', '$pal', '$cédr']"
+tree,swe,"['träd$', 'trädet', 'träden']"
+tree,ces,"['$strom', '$fíkovní', '$olivovn', '$jalovc', '$pal', '$cedr']"
+tree,gla,['rao']
+tree,msa,"['$pokok$', '$pohon']"
+tree,fas,['$درخت']
+tree,hye,"['$ծառե', '$ծառի', 'թզեն', '$ծառ$', '$ծառը$', 'ենիներ']"
+tree,est,"['ipuu', '$puu$', '$puude', '$puud$', '$elupuu', 'puul']"
+tree,cym,"['$pren', 'gysbren$', 'derw', '$goed', '$bren$', '$olewydd']"
+seed,eng,['$seed']
+seed,spa,"['escenden', '$semilla', '$sembrar']"
+seed,deu,"['$same', 'saat', 'säen$']"
+seed,zho,"['$后裔$', '$种子$', '$撒种', '$耕种$', '种']"
+seed,fra,"['semenc', '$seme', '$sème']"
+seed,pol,"['$potom', '$nasieni', '$nasion', 'siew', '$ziar']"
+seed,rus,"['$семена', '$потомст', '$семя', '$потомк']"
+seed,fin,"['siemen', '$kylv']"
+seed,est,['$seem']
+seed,ita,"['$seme$', '$semi']"
+seed,cym,"['$had$', '$heu']"
+leaf,spa,"['$hoja', 'e$deja$s']"
+leaf,eng,"['$leaves$', '$leaf$']"
+leaf,deu,"['blätter$', '$blatt']"
+leaf,zho,"['$树叶$', '$叶子$的$', '$两$扇$']"
+leaf,nld,"['$blad', 'ne$deur$']"
+leaf,fra,"['$feuille', 'ux$batta']"
+leaf,pol,"['$liś', 'zydła$dr']"
+leaf,afr,"['blaar$', 'blare$', '$een$deu']"
+leaf,cat,"['s$fulles', 'del$sími']"
+leaf,dan,"['blad', '$fløje$', 'rlader$s']"
+leaf,fin,"['lehtiä', 'n$lehde', 'puun$leh']"
+leaf,ell,"['$φύλλα$', '$φύλλο']"
+leaf,hun,"['falev', '$fügefát', 'egyik$aj', 'n$hagyja', '$levelei']"
+leaf,isl,"['$blöð', 'ið$líkin']"
+leaf,gle,"['uilleo', '$ón$gcra', 's$duilli']"
+leaf,xho,"['gqabi$', 'zomnyang']"
+leaf,ita,"['e$fogli', '$foglia$', 'e$batten', 'lascia$l']"
+leaf,lit,"['io$lap', 'ejų$dali', 'e$iš$pal', '$figmedį']"
+leaf,mlt,"['$werqa$', 'weraq$', 'ibien$ji']"
+leaf,rus,"['$листь', 'ый$лист$']"
+leaf,srp,"['$list$', 'o$smokv', '$preklap', '$lišć']"
+leaf,slk,"['ové$list', 'badal$fi', '$od$figo', 'echáva$s', 'ý$list$']"
+leaf,swe,"['$löv$', 'n$ena$dö']"
+leaf,tur,"['$yapra', '$ağacı$ö']"
+leaf,ces,"['$listy$', 'ý$list$', '$otáče']"
+leaf,gla,['bh$du']
+leaf,msa,['$daoen']
+leaf,fas,['$برگ$']
+leaf,hye,"['$տերև', 'երկու$փե']"
+leaf,est,['$leh']
+leaf,cym,"['dail$y', '$blygedi', 'deilen$']"
+root,eng,['$root']
+root,spa,['$raí']
+root,deu,['$wurzel']
+root,zho,"['的$根$', '$树根$', '根$，$', '$没有$根', '$枝']"
+root,fra,['$racine']
+root,pol,['$korze']
+root,rus,"['$корень$', '$корн']"
+root,fin,"['$juurt', 'n$juur', '$juuren']"
+root,est,"['$juur$', '$juurt']"
+root,ita,['$radic']
+root,cym,"['wreiddyn', 'wraidd$', '$wreiddi']"
+flesh,eng,['$flesh$']
+flesh,fra,['$chair$']
+flesh,pol,"['$ciał', '$mięs', '$ciele$']"
+flesh,zho,"['肉', '$洗身$，$', '$的$身体$', '$所有$的$人$', '$割', '生命$']"
+flesh,cym,"['nawd$', '$cig$', '$gig$']"
+flesh,est,"['$liha', 'hali']"
+flesh,fin,['$liha']
+flesh,rus,"['$плот', '$мяс', '$тело$в$', '$коже$']"
+flesh,spa,['$carne$']
+blood,eng,['$blood$']
+blood,spa,['sang']
+blood,deu,['blut']
+blood,zho,['血']
+blood,fra,['$sang$']
+blood,nld,['bloed$']
+blood,pol,"['$krwi', '$krew$']"
+blood,tur,"['$kanı', '$kan$', '$kanla', '$kana$']"
+blood,rus,['$кров']
+blood,fin,['$ver']
+blood,est,['$ver']
+blood,ita,['sangu']
+blood,cym,['waed$']
+horn,eng,['$horn']
+horn,zho,"['角$', '$角']"
+horn,fra,"['$corne', '$cor$']"
+horn,pol,"['$rog', '$róg$']"
+horn,cym,"['orn$', '$gyrn$', 'hyrn$', 'utgyrn$']"
+horn,est,['sarve']
+horn,fin,"['$sarv', 'torv']"
+horn,rus,['$рог']
+horn,spa,['$cuerno']
+horn,deu,"['horn', 'hörner']"
+horn,ita,['$corn']
+hair,eng,['$hair']
+hair,deu,['haar']
+hair,nld,"['$haren$', 'het$haar', 'enhaar', 'rmale$ha', 'haar$van', 'ijn$hoof']"
+hair,fra,"['$cheve', '$poil']"
+hair,pol,"['$włos', '$sierś']"
+hair,spa,"['$cabell', '$pelo$']"
+hair,ita,"['$capell', '$pelo$']"
+ear,eng,"['$ear$', '$ears$']"
+ear,spa,"['$oído', '$oreja']"
+ear,deu,"['$ohr', '$gehör$']"
+ear,zho,"['$耳', '$留心$听', '$侧耳$', '穗$', '听$', '耳']"
+ear,nld,"['$oor$', '$ore', 'anhoren$', '$koren']"
+ear,fra,['oreille']
+ear,pol,"['$ucha$', '$usz', '$ucho$']"
+ear,tur,"['$kula', '$başak', '$sesle$o']"
+ear,afr,"['$ore$', 'ister$to', '$oor$to', '$graana', 'die$oor$', '$oor$het']"
+ear,cat,['orell']
+ear,dan,"['$øre', '$lyt', '$påhør$', '$aks$']"
+ear,fin,['$korv']
+ear,ell,"['$αφτ', '$ακρόαση', '$στάχυα$']"
+ear,hun,['$fül']
+ear,isl,['$eyr']
+ear,gle,"['luas', 'diasa$', 'cluais', '$léigh$', '$éist$', '$éiste']"
+ear,xho,['ndlebe']
+ear,ita,['orecchi']
+ear,lit,"['$aus', '$išgirsk', '$varp', '$girdint', '$dėmes', 'klausyk']"
+ear,mlt,"['widn', '$wid', 'sbul', 'biex$jis']"
+ear,rus,"['$ухо$', '$уши$', '$уха$', '$уша', '$ушей$', '$колос']"
+ear,srp,"['$uho$', '$uši', '$klas', '$čuj', 'čita']"
+ear,slk,"['$ucho$', '$uš', '$klas']"
+ear,swe,"['$ör', '$lyssna$', '$ax$', '$läste$', 'a$ax']"
+ear,ces,"['$uš', '$ucho$', '$sluchu$', '$klas']"
+ear,gla,['luas']
+ear,msa,['telinga']
+ear,fas,"['$که$گوش$', '$و$گوش', '$گوش']"
+ear,hye,"['$ակա', '$հասկեր']"
+mouth,eng,['$mouth']
+mouth,spa,['$boca$']
+mouth,deu,"['mund', '$maul$']"
+mouth,zho,"['$口', '开口$', '$亲口$', '$嘴$', '口$', '嘴']"
+mouth,fra,"['$bouche$', '$gueule$']"
+mouth,nld,"['mond$', '$muil$', 'pening$v']"
+mouth,pol,"['$ust$', '$usta$', '$ustach$', '$ustami$', '$paszcz']"
+mouth,tur,"['$ağzı', '$ağız', '$dili']"
+mouth,rus,"['$уст', '$рт', '$рот$', '$пасти$']"
+mouth,fin,"['$suus', '$suun', '$suull', '$suu$', '$suuhu', '$suuta']"
+mouth,est,"['$suu$', '$suus']"
+mouth,ita,['$bocca$']
+mouth,cym,"['enau', '$safn']"
+tooth,eng,"['$teeth$', '$tooth$']"
+tooth,spa,['$diente']
+tooth,deu,"['$zähne', 'zahn$']"
+tooth,zho,"['齿$', '$牙$', '牙']"
+tooth,fra,['$dent']
+tooth,pol,"['$zęb', '$ząb$']"
+tooth,rus,['$зуб']
+tooth,fin,['hampa']
+tooth,est,['$hamba']
+tooth,ita,"['$denti$', '$dente$']"
+tooth,cym,"['dannedd$', '$ddant$']"
+tongue,eng,['$tongue']
+tongue,spa,['$lengua']
+tongue,deu,['$zunge']
+tongue,zho,"['舌', '$方言$', '语']"
+tongue,fra,['$langue']
+tongue,rus,['$язык']
+tongue,fin,"['$kiele', '$kieli']"
+tongue,est,['keel']
+tongue,pol,['$język']
+tongue,ita,['$lingu']
+tongue,cym,"['afod$', 'afodau$', 'iaith$']"
+foot,spa,"['$pies$', 'u$pie$', 'a$pie$', 'el$pie$']"
+foot,eng,"['$feet$', '$foot$']"
+foot,deu,"['$füße', '$fuß']"
+foot,zho,"['脚', '$步', '腿']"
+foot,fra,['$pied']
+foot,nld,['$voet']
+foot,pol,"['$stop', '$nog', '$stóp$', '$piesz']"
+foot,tur,"['ayakları', '$ayağı', '$yaya$', '$ayak$', '$aya', '$adım']"
+foot,rus,"['$ног', '$пеш']"
+foot,fin,['$jal']
+foot,est,['$jal']
+foot,ita,['$pied']
+foot,cym,"['raed$', 'roed$']"
+knee,eng,"['$knees$', '$knee$']"
+knee,spa,['$rodilla']
+knee,deu,['$knie']
+knee,zho,"['膝', '$跪$下来$', '$，$跪']"
+knee,fra,['$genou']
+knee,pol,['$kolan']
+knee,ita,['$ginocch']
+knee,rus,['$колен']
+knee,cym,"['liniau', 'ob$glin$']"
+knee,est,"['$põlvi', '$põlved', 'ga$põlv$']"
+knee,fin,['$polv']
+belly,eng,['$belly$']
+belly,spa,['$vientre']
+belly,deu,"['$bauch', '$mutterl', '$leib']"
+belly,zho,"['腹', '$母胎$', '肚', '胎', '$生$的$']"
+belly,fra,['$ventre$']
+belly,nld,['$buik']
+belly,pol,"['$brzuch', '$łona$', '$łonie$']"
+belly,rus,"['$утробы$', '$живот$', 'нутренно', '$утроб', '$живот', 'ёд']"
+belly,fin,"['$vatsa', 'kohdus', '$kohtu', '$kohdu']"
+belly,est,"['$kõhus$k', 'lsete$']"
+belly,ita,['$ventre$']
+belly,cym,"['$groth$', '$bol$', '$fru$', '$fol$', 'hroth$', 'roth']"
+neck,eng,['$neck']
+neck,spa,"['$cuello', '$cerviz$']"
+neck,deu,"['$hals$', '$nacken$', '$genick$']"
+neck,zho,['颈']
+neck,fra,"['$cou$', '$nuque$']"
+neck,nld,"['$hals$', '$nek$']"
+neck,pol,"['$kark', '$szyj', '$szyi$']"
+neck,rus,"['$шею$', '$шее$', '$шеи$', 'упрямыми', '$упрям', '$на$ше']"
+neck,fin,"['$niska', '$kaula']"
+neck,est,['$kaela$']
+neck,ita,"['$collo$', '$nuca$']"
+neck,cym,"['wddf$', 'warrau', 'yddfau$', '$war$']"
+breast,spa,['$pecho']
+breast,eng,['$breast']
+breast,deu,"['$brust$', '$brüste']"
+breast,zho,"['$胸$', '乳$', '$的$胸', '$哺', '奶', '胸']"
+breast,fra,"['$seins$', '$poitrin']"
+breast,ita,"['$petto$', 'mammelle']"
+breast,rus,['$груд']
+sun,eng,['$sun$']
+sun,spa,['$sol$']
+sun,deu,['$sonne']
+sun,zho,"['$太阳$', '光$之下$', '$日落$', '$日出$']"
+sun,fra,['$soleil$']
+sun,nld,['$zon$']
+sun,pol,['$słońc']
+sun,tur,"['$güneş', 'doğusu', 'n$ışı', 'batı']"
+sun,afr,"['$son$', '$sonso']"
+sun,cat,"['l$sol$', 'da$de$so']"
+sun,dan,"['$solen', '$sol$']"
+sun,fin,['$aurin']
+sun,ell,['$ήλι']
+sun,hun,"['$a$nap$', '$napn', 'pkelet$f', '$hold', 'hold$']"
+sun,isl,['$sól']
+sun,gle,"['$ghrian$', 'gréin', 'grian$', 'oi$luí$n']"
+sun,xho,"['ilanga$', 'kwelanga', '$elangen', 'kwenkwez', 'tshona', 'langen']"
+sun,ita,['$sole$']
+sun,lit,"['$saulė', '$saule', '$saulę$', 'saulyje$', 'rytu']"
+sun,mlt,['xemx$']
+sun,rus,['$солнц']
+sun,srp,"['$sunc', '$istok']"
+sun,slk,['$slnk']
+sun,swe,"['$solen', '$sol$']"
+sun,ces,['$slunc']
+sun,gla,['$a$ghr']
+sun,msa,['$matahar']
+sun,fas,"['$خورشید', '$آفتاب']"
+sun,hye,"['$արևը$', '$արեգա', '$արևի', '$արևն$', '$արևա']"
+sun,est,['$päike']
+sun,cym,['$haul$']
+moon,eng,['$moon$']
+moon,spa,['$luna$']
+moon,deu,"['mond$', 'monds$']"
+moon,zho,"['$月亮$', '$日月$', '$月朔$', '$、$月', '$初', '朔']"
+moon,fra,['$lune$']
+moon,nld,['$maan$']
+moon,pol,"['$księżyc', '$nów$', '$nowiu$']"
+moon,tur,"['$ay$', 'güneşin$', '$yeni$ay', '$güneş']"
+moon,afr,"['$maan$', 'uwemaan$']"
+moon,cat,['$la$llun']
+moon,dan,"['månen', 'måne$']"
+moon,fin,"['$kuu$', 'denkuun', 'sikuu$', 'eikä$kuu', 'a$tähdet', '$kuuta$']"
+moon,ell,['$σελήνη']
+moon,hun,"['hold$', '$holda', '$a$hold']"
+moon,isl,['$tungl']
+moon,gle,"['ghealach', '$ré$nua$', 'geala', '$an$ré$']"
+moon,xho,"['nenyanga', 'kwenyang', 'yanga$ne', '$inyanga', 'langen']"
+moon,ita,['$luna$']
+moon,lit,['$mėnul']
+moon,mlt,"['l-qamar$', '$qamar$']"
+moon,rus,['лун']
+moon,srp,"['$mesec$', '$mladin', '$i$zvezd', '$sunc']"
+moon,slk,"['mesiac$', 'vmesiaca', 'a$hviezd', 'lnku$', 'e$slnko$', 'ovmesiac']"
+moon,swe,['måne']
+moon,ces,"['$měsíc$', 'ovoluní$', 'a$měsíc', '$slunc']"
+moon,gla,['$ach$ann']
+moon,msa,"['n$boelan', 'w$boelan']"
+moon,fas,['$ماه$']
+moon,hye,"['լուսի', 'լուսնի']"
+moon,cym,"['$lleuad$', 'loer$', 'leuad', '$o’r$mis']"
+moon,est,"['$kuu$', 'tähtedes']"
+star,eng,"['$stars$', '$star$']"
+star,spa,['estrella']
+star,deu,['$stern']
+star,zho,['星']
+star,fra,['étoile']
+star,nld,"['sterren$', '$ster$']"
+star,pol,['$gwiazd']
+star,tur,['$yıldız']
+star,afr,"['sterre$', '$ster$']"
+star,cat,"['estrell', 'estel']"
+star,dan,['stjerne']
+star,fin,"['tähdet', 'tähti', '$tähteä$', 'a$tähd']"
+star,ell,['$άστρ']
+star,hun,['csillag']
+star,isl,"['stjörnu', '$stjarna']"
+star,gle,['$réalt']
+star,xho,['kwenkwez']
+star,ita,['$stell']
+star,lit,['$žvaigžd']
+star,mlt,"['kwiekeb$', 'kewkba$']"
+star,rus,"['$звёзд', '$звезд']"
+star,srp,['$zvezd']
+star,slk,['$hviezd']
+star,swe,['stjärn']
+star,ces,['$hvězd']
+star,gla,['ithidh$r']
+star,msa,['$bintang']
+star,fas,['$ستار']
+star,hye,['$աստղ']
+star,est,"['tähte', 'a$tähed$', '$tähti$', 'mmikutäh', '$täht$']"
+star,cym,"['$sêr$', '$seren$']"
+water,spa,['$agua$']
+water,eng,['$water$']
+water,deu,['wasser']
+water,zho,['水']
+water,nld,"['water$', '$waterk', '$waterp']"
+water,pol,['$wod']
+water,fra,"['’eau$', '$eau$']"
+water,tur,"['$su$', '$suy', '$suda', 'sula']"
+water,rus,['$вод']
+water,fin,"['$vettä', 'vede', '$vesi']"
+water,est,"['vett', '$veega$', '$vees', '$vesi$', 'vee$']"
+water,ita,['acqua$']
+water,cym,"['dwfr$', 'dyfr']"
+rain,eng,['$rain$']
+rain,spa,"['$lluvia', '$llov']"
+rain,nld,"['$regen$', 'regenen$', 'teregen$', '$regenbu']"
+rain,afr,['reën$']
+rain,cat,"['$plu', '$ploure$']"
+rain,dan,"['regn$', '$regnen$', '$regne$', '$regnsky']"
+rain,fin,"['$sade', 'satee', '$sataa$']"
+rain,deu,"['$regen$', 'regnen$', 'frühling', '$regen']"
+rain,ell,"['$βροχή', 'ς$βροχ']"
+rain,hun,"['$eső', 'záporeső']"
+rain,isl,"['$rign', 'regn$']"
+rain,gle,"['rthainn$', 'áisteach', '$báistí$', '$bháist', '$toirnea']"
+rain,xho,['mvula$']
+rain,ita,"['$pioggia', '$piove']"
+rain,lit,['$liet']
+rain,mlt,['xita$']
+rain,pol,['$deszcz']
+rain,rus,['$дожд']
+rain,srp,['$kiš']
+rain,slk,"['$dážď$', '$dažď', 'prša', '$lejak']"
+rain,swe,"['regn$', '$regnet$', '$regna$', 'egnskura']"
+rain,tur,"['$yağmur', '$yağdır']"
+rain,ces,"['$déšť$', '$deš', 'prše']"
+rain,msa,['hoedjan']
+rain,fas,['$باران']
+rain,hye,['$անձրև']
+rain,zho,"['雨', '$降$']"
+rain,fra,"['$pluie$', '$pleuv']"
+rain,cym,"['$glaw', '$lawi', '$diwedda', 'law$ar$']"
+rain,est,['$vihma']
+stone,eng,['$stone']
+stone,spa,['$piedra']
+stone,deu,['$stein']
+stone,zho,"['$石', '$宝石$', '石$，$', '石$', '墙']"
+stone,fra,['$pierre']
+stone,nld,"['stenen$', '$steen$']"
+stone,pol,['$kamie']
+stone,rus,['$кам']
+stone,fin,['$kiv']
+stone,est,['kiv']
+stone,ita,['$pietr']
+stone,cym,"['errig$', '$maen$', 'arreg$', '$meini$', '$faen$', '$feini$']"
+cloud,spa,"['$nube$', '$de$nube']"
+cloud,eng,['$cloud$']
+cloud,deu,"['wolke$', '$wolkens']"
+cloud,zho,"['$云', '云$']"
+cloud,fra,['$nuage$']
+cloud,nld,"['wolk$', '$wolkkol', '$wolkgev']"
+cloud,pol,"['$obłok', '$chmur$']"
+cloud,tur,['bulut']
+cloud,afr,"['wolk$', '$wolkkol', '$wolk']"
+cloud,cat,['$núvol$']
+cloud,dan,"['skyen', '$sky$', 'skysøjle', 'masse']"
+cloud,fin,['pilv']
+cloud,ell,['$σύννεφο']
+cloud,hun,['felhő']
+cloud,isl,"['$skýi', 'ði$og$vi']"
+cloud,gle,"['n$né', '$scama', '$néal$', 'na$néal']"
+cloud,xho,"['lifu$', 'efini$']"
+cloud,ita,"['$nuvola$', 'a$nube$', 'a$di$nuv']"
+cloud,lit,['debes']
+cloud,mlt,"['sħaba$', 'tas-sħab', 'sħab$']"
+cloud,rus,"['$облак', '$облачн']"
+cloud,srp,['$oblak']
+cloud,slk,['$oblak']
+cloud,swe,['moln']
+cloud,ces,"['$oblak', '$oblačn']"
+cloud,gla,['s$bha$ni']
+cloud,msa,['$awan$']
+cloud,fas,"['$ابری$', '$ابر$']"
+cloud,hye,['$ամպ']
+cloud,est,['$pilv']
+cloud,cym,"['wmwl$', 'olofn$']"
+smoke,eng,['$smoke$']
+smoke,zho,"['$焚', '烧香$', '$烟', '烧$香', '烟$', '$烧$']"
+smoke,deu,"['$rauch', 'räuchert', 'räuchern']"
+smoke,spa,"['$humo$', '$humear']"
+smoke,nld,['rook']
+smoke,fra,['$fum']
+smoke,pol,['$dym']
+smoke,rus,"['$дым', 'енное$к', 'твеннике', '$сжига']"
+smoke,ell,['$καπν']
+smoke,fin,['savu']
+smoke,tur,"['$duman', 'akta$yak', 'yakacak$', 'ı$sunakt', 'te$yakıl']"
+smoke,ita,['$fum']
+smoke,afr,['rook']
+smoke,cat,['$fum']
+smoke,dan,"['$røgof', 'røg$', '$røgen$']"
+smoke,hun,"['füstölög', '$füst$', '$füstj']"
+smoke,isl,['$reyk']
+smoke,gle,"['$deata', '$túis$', 'ar$an$al', '$túise$', '$a$losca', '$tsaill$']"
+smoke,xho,"['qhumise', 'msi$', 'qhumisa$']"
+smoke,lit,"['$dūm', 'smilk', 'ant$auku', '$taukus$', 's$kvap', 'sudegins']"
+smoke,mlt,"['duħħan$', 'q$l-arta', 'aħarqu$']"
+smoke,srp,"['$kd$', '$dim', 'spali$na', 'a$oltaru', 'o$spali']"
+smoke,slk,['$dym']
+smoke,swe,"['$rök', 't$på$alt', '$bränna$']"
+path,eng,"['$road$', '$path']"
+path,spa,"['$senda', 'l$camino']"
+path,deu,"['$pfad', 'm$weg$', 'raße', 'wegs$', '$den$weg']"
+path,zho,"['在$路', '$的$路', '路$']"
+path,fra,"['$la$rout', '$sentier', 'rout']"
+path,pol,"['$ścież', '$drodze$', '$drog']"
+path,cym,"['lwybr', '$y$fford', 'fordd$y$']"
+path,est,"['$tee$äär', '$tee$pea', '$teel$', '$sirge', '$teed', 'le$tee']"
+path,fin,"['$polku', 'polu', '$tiell', '$tien$v', 'tietä$']"
+path,rus,"['$дорог', '$пут']"
+mountain,eng,['$mountai']
+mountain,spa,['$montaña']
+mountain,deu,['$berg']
+mountain,zho,['山']
+mountain,fra,['$montagn']
+mountain,nld,"['e$berg', '$bergen$']"
+mountain,pol,['$gór']
+mountain,rus,"['$горы$', '$гора', '$гору$', 'й$горе$', '$гор$', '$на$горе']"
+mountain,fin,['$vuor']
+mountain,est,"['$mäe', '$mäg']"
+mountain,ita,['$mont']
+mountain,cym,"['$mynydd', '$fynydd']"
+white,eng,['$white$']
+white,spa,['$blanc']
+white,deu,"['$weiße', '$in$weiß', 'weiß$wie', 'weiß$']"
+white,zho,"['$白', '$变白$', '$洁白$']"
+white,fra,['$blanc']
+white,nld,['$wit']
+white,pol,"['$biał', '$zbielał']"
+white,tur,"['beyaz', '$ağarm']"
+white,rus,"['$бел', '$побеле']"
+white,fin,['$valko']
+white,est,['valge']
+white,ita,['$bianc']
+white,cym,"['$gwynion', '$yn$wyn$', '$wen$', 'r$eira$', 'h$gwyn', 'na’r$cro']"
+night,eng,['$night']
+night,spa,['$noche']
+night,deu,"['$nacht', '$nächt']"
+night,zho,"['夜', '天$晚上$', '$住宿$', '$晚上$']"
+night,nld,['$nacht']
+night,pol,['$noc']
+night,fra,['$nuit']
+night,rus,['$ноч']
+night,fin,['$yö']
+night,est,['$öö']
+night,ita,['$nott']
+night,cym,['$nos']
