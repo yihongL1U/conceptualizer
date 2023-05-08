@@ -93,8 +93,10 @@ Please cite the following if you found the resources in this repository useful.
 @inproceedings{liu2023conceptualizer,
   title = "A Crosslingual Investigation of Conceptualization in 1335 Languages",
   author = "Liu, Yihong and Ye, Haotian and Weissweiler, Leonie and Wicke, Philipp and Pei, Renhao and Zangenfeind, Robert and Schuetze, Hinrich",
-  booktitle = "Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics",  
+  booktitle = "Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",  
   year = "2023",
+  address = "Toronto, Canada",
+  publisher = "Association for Computational Linguistics",
   url = "",
 }
 ```
