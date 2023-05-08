@@ -87,4 +87,14 @@ export PYTHONIOENCODING=utf8; nohup python -u ./concept_script.py --src_lang eng
 
 ## References
 
-Please cite if you found the resources in this repository useful.
+Please cite the following if you found the resources in this repository useful.
+
+```
+@inproceedings{liu2023conceptualizer,
+  title = "A Crosslingual Investigation of Conceptualization in 1335 Languages",
+  author = "Liu, Yihong and Ye, Haotian and Weissweiler, Leonie and Wicke, Philipp and Pei, Renhao and Zangenfeind, Robert and Schuetze, Hinrich",
+  booktitle = "Proceedings of the 61th Annual Meeting of the Association for Computational Linguistics",  
+  year = "2023",
+  url = "",
+}
+```
