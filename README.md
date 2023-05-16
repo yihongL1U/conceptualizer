@@ -87,7 +87,7 @@ export PYTHONIOENCODING=utf8; nohup python -u ./concept_script.py --src_lang eng
 
 ## References
 
-Please cite the following if you found the resources in this repository useful.
+Please cite [[1]](https://arxiv.org/abs/2305.08475) if you found the resources in this repository useful.
 
 ```
 @inproceedings{liu2023conceptualizer,
@@ -97,6 +97,6 @@ Please cite the following if you found the resources in this repository useful.
   year = "2023",
   address = "Toronto, Canada",
   publisher = "Association for Computational Linguistics",
-  url = "",
+  url = "https://arxiv.org/abs/2305.08475",
 }
 ```
